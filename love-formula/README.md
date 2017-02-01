@@ -22,6 +22,8 @@ python love.py
 
 ## Formulas in graphs
 
+Describe all formulas in graphs
+
 ![show picture](images/formula2.png)
 
 
