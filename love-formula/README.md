@@ -16,6 +16,8 @@ You can run with this command.
 python love.py
 ```
 
+### Output
+
 ![show picture](images/formula1.png)
 
 ## Formulas in graphs
