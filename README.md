@@ -1,2 +1,2 @@
-# Python
+# Source code
 
