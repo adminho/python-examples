@@ -1,6 +1,6 @@
 ## Requirement
 
-Firstly, Install these package with the command
+Firstly, Install these packages with the command
 
 ```js
 pip install matplotlib numpy
