@@ -27,7 +27,7 @@ Describe all formulas in graphs
 ![show picture](images/formula2.png)
 
 
-## Reference 
+## References
 
 * https://www.pinterest.com/pin/565201821963867704/
 * http://fakeplus.com/pictures/jpg/trust-me-im-an-engineer_20120331032746.jpg
