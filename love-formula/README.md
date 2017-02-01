@@ -6,9 +6,9 @@ Firstly, Install these package with the command
 pip install matplotlib numpy
 ```
 
-## Code
+## Codes
 
-[See the source code here]()
+[See the source code here](love.py)
 
 You can run with this command.
 
@@ -16,13 +16,14 @@ You can run with this command.
 python love.py
 ```
 
-![show picture](image/formula1.png)
+![show picture](images/formula1.png)
 
 ## Formulas in graphs
 
-![show picture](image/formula2.png)
+![show picture](images/formula2.png)
+
 
 ## Reference 
 
-* https://humour-mathematiques.com/Maths/images/all-you-need-is-love-maths.jpg
-* https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9MLIGNz6AcplOcWGv5IIuf6qMVzXLfC0t0tbam8J5IIjNAS-fGm1Y4IE
+* https://www.pinterest.com/pin/565201821963867704/
+* http://fakeplus.com/pictures/jpg/trust-me-im-an-engineer_20120331032746.jpg
