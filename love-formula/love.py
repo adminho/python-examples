@@ -75,7 +75,6 @@ y = 13*np.cos(theta) - 5*np.cos(2*theta) - 2*np.cos(3*theta) - np.cos(4*theta)
 
 ax = fig.add_subplot(2,3,5)
 ax.plot(x, y, 'r')
-
 ##################
 
 # Show all graphs
