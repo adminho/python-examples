@@ -6,7 +6,7 @@ First, Install these packages (matplotlib and numpy) with this command
 pip install matplotlib numpy
 ```
 
-If you install [ANACONDA](https://www.continuum.io/downloads), above packages will install already (including python)
+If you install [ANACONDA](https://www.continuum.io/downloads), above packages will be installed already (including python)
 
 ## Codes
 
