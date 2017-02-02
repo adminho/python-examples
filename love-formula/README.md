@@ -22,12 +22,9 @@ python love.py
 
 ![show picture](images/formula1.png)
 
-## Formulas in graphs
-
-Describe all formulas in graphs
+## All formulas in graphs
 
 ![show picture](images/formula2.png)
-
 
 ## References
 
