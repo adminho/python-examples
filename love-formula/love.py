@@ -51,7 +51,7 @@ ax.plot(x, y, 'b')
 
 """ Drawing E """
 y = np.linspace(0, 6, 100)
-# compute x = -3|sin⁡(y)|
+# compute x = -3|sin(y)|
 x = -3*np.abs(np.sin(y))
 
 ax = fig.add_subplot(2,8,6) # add E graph
@@ -70,7 +70,7 @@ ax.plot(x, y, 'g')
 """ Drawing a heart """
 theta = np.linspace(0, 2*np.pi, 100)
 # compute x = 16sin3(theta)
-# compute y = 13cos⁡(theta)- 5cos(2theta) - 2cos⁡(3theta) - cos(4theta)
+# compute y = 13cos(theta)- 5cos(2theta) - 2cos(3theta) - cos(4theta)
 x = 16*np.sin(theta)**3
 y = 13*np.cos(theta) - 5*np.cos(2*theta) - 2*np.cos(3*theta) - np.cos(4*theta)
 
