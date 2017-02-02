@@ -1,5 +1,6 @@
 # Firstly, install packages (matplotlib numpy)
 # pip install matplotlib numpy
+# or install ANACONDA instead
 
 import matplotlib.pyplot as plt 
 import numpy as np
