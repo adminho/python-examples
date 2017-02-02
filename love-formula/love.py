@@ -62,7 +62,7 @@ ax.plot(x, y, 'b')
 """ Drawing U """
 x = np.linspace(-3, 3, 100)
 # compute x
-y = x**2
+y = x**4
 
 ax = fig.add_subplot(2,8,8) # add U graph
 ax.plot(x, y, 'g')
