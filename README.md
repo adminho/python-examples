@@ -1,3 +1,3 @@
-# Source code examples
+# Python examples
 
 * [Love formula] (love-formula/README.md)
