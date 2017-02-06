@@ -2,7 +2,7 @@
 
 First, Install these packages (matplotlib and numpy) with this command
 
-```js
+```
 pip install matplotlib numpy
 ```
 
@@ -14,7 +14,7 @@ If you install [ANACONDA](https://www.continuum.io/downloads), above packages wi
 
 You can run with this command.
 
-```js
+```
 python love.py
 ```
 
