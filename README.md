@@ -1,3 +1,3 @@
 # Python examples
 
-[love formula](love-fomula)
+* [love formula](love-fomula)
