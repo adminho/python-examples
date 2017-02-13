@@ -67,7 +67,7 @@ y = x**4
 ax = fig.add_subplot(2,8,8) # add U graph
 ax.plot(x, y, 'g')
 
-""" Drawing a heart """
+""" Drawing a heart picture"""
 theta = np.linspace(0, 2*np.pi, 100)
 # compute x = 16sin3(theta)
 # compute y = 13cos(theta)- 5cos(2theta) - 2cos(3theta) - cos(4theta)
