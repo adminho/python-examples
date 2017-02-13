@@ -1,4 +1,4 @@
-# Love formula
+# Love formula (สูตรรักนักเขียนโค้ด)
 ## Requirement
 
 First, Install these packages (matplotlib and numpy) with this command
